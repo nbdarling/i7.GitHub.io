@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://i7.GitHub.io.git/sitemap.xml
